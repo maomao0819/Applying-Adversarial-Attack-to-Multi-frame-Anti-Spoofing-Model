@@ -1,0 +1,1 @@
+./model_multipler_1/replayattack/model.ckpt-13800 : acc_mean = 0.8645833333333334, apcer = 0.8125, bpcer = 0.0, acer = 0.40625

@@ -1,0 +1,1 @@
+./model_multipler_1/OULU-NPU_1/model.ckpt-48500 : acc_mean = 0.9982964224872232, apcer = 0.008403361344537815, bpcer = 0.0, acer = 0.004201680672268907

@@ -1,0 +1,1 @@
+./model_multipler_1/CASIA-FASD/model.ckpt-48680 : acc_mean = 1.0, apcer = 0.0, bpcer = 0.0, acer = 0.0

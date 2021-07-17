@@ -1,0 +1,1 @@
+./model_finetune_replayattack/model.ckpt-204500 : acc_mean = 0.16666666666666666, apcer = 0.9975, bpcer = 0.0125, acer = 0.505

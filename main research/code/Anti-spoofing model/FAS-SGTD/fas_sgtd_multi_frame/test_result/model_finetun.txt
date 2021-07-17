@@ -1,0 +1,1 @@
+./model_finetune/model.ckpt-105001 : acc_mean = 0.4583333333333333, apcer = 0.5975, bpcer = 0.2625, acer = 0.43000000000000005

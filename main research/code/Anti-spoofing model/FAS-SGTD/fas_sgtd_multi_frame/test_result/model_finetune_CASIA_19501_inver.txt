@@ -1,0 +1,1 @@
+./model_finetune_CASIA_19501_inverse/model.ckpt-166001 : acc_mean = 0.3645833333333333, apcer = 0.7175, bpcer = 0.225, acer = 0.47125
