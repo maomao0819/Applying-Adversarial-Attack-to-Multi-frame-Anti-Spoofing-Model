@@ -31,8 +31,8 @@ Since our goal is to fool the detecting recognition, we only attack the image wh
 ### 5.2. Dataset
 Four datasets - OULU-NPU, MSU-MFSD, CASIA-FASD, Replay-Attack are used in our experiment. OULU-NPU is a high-resolution database,consisting of 4950 real access and spoofing videos and containing four protocols to validate the generalization of models. MSU-MFSD contains 280 video recordings of genuine and attack faces. CASIA-FASD and Replay-Attack both contain low-resolution videos.
 ### 5.3. Performance Metrics
-# ASR: Attack Success Rate, which is the ratio represented by the spoofing images misclassified to be the real by the model.
-# SSIM: Structural Similarity Index Measure, which is the index that elaborates how two images are similar by considering structure, intensity, and contrast. 
+* ASR: Attack Success Rate, which is the ratio represented by the spoofing images misclassified to be the real by the model.
+* SSIM: Structural Similarity Index Measure, which is the index that elaborates how two images are similar by considering structure, intensity, and contrast. 
 ### 5.4. Comparison
 #### 5.4.1. model
 ![](https://user-images.githubusercontent.com/43957213/127464687-4a9c3ed7-c031-405c-8f08-6e2647249a53.jpg)
