@@ -108,7 +108,7 @@ And, the following shows the brief conclusion of the experiment result, and the 
 * **The filter will worsen the performance of iFGSM.**
 *	**The filter Performance：Gaussian > Uniform.**
 * **SSIM: Gaussian > Uniform > no filter.**
-* **Multiple filter increase image quality.**
+* **Multiple filters increase image quality.**
 * **Best filter’s sigma is around 1.**
 * **The best number of the layers is only 1.**
 * **Trade-off between ASR and SSIM is important.**
